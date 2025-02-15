@@ -9,7 +9,7 @@ The forumla below was used in this script:
 
 	Metcalf's ratio = CurrentMarketCap/(DailyActiveAddresses)^2
 
-The NVM.py file contains the addition of the Network Value to Metcalfe Ratio (NVM Ratio). The NVM ratio is the log of the market capitalization divided by the log of the square of daily active addresses in the specified window. An NVM Ratio close to 1 indicates that the network’s value is in line with what Metcalfe’s Law predicts, while significant deviations suggest potential overvaluation or undervaluation.
+The NVM-Ratio.py file contains the addition of the Network Value to Metcalfe Ratio (NVM Ratio). The NVM ratio is the log of the market capitalization divided by the log of the square of daily active addresses in the specified window. An NVM Ratio close to 1 indicates that the network’s value is in line with what Metcalfe’s Law predicts, while significant deviations suggest potential overvaluation or undervaluation.
 
 The formula below was used in this script: 
 
