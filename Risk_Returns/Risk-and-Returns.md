@@ -1,6 +1,6 @@
 **Crypto Risk-Return Analysis Script**
 
-Risk-and-Returns-metrics.py is a Python script that analyzes market data and calculates key financial metrics for a handpicked group of cryptocurrencies (​​BTC, ETH, AAVE, ADA, CRV, DOGE, HBAR, SOL, SHIB, SUI, TON, XRP). This script automates the process of fetching historical price data from CoinAPI and calculates comprehensive risk and performance analytics across multiple time frequencies. 
+risk-and-returns-metrics.py is a Python script that analyzes market data and calculates key financial metrics for a handpicked group of cryptocurrencies (​​BTC, ETH, AAVE, ADA, CRV, DOGE, HBAR, SOL, SHIB, SUI, TON, XRP). This script automates the process of fetching historical price data from CoinAPI and calculates comprehensive risk and performance analytics across multiple time frequencies. 
 
 **Overview**
 
