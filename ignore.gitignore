@@ -1,9 +1,0 @@
-# Ignore Python cache files
-__pycache__/
-*.pyc
-
-# Ignore the generated Excel file
-dashboard_metrics.xlsx
-
-# Ignore environment variable files
-.env
